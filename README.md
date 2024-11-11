@@ -1,5 +1,3 @@
 # Course-thing
 
-test
-
-test2
+тут должн быть курсач
